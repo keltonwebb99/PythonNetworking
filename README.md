@@ -2,7 +2,7 @@
 
 In this project, as a software engineer, I am trying to further my understanding and skills in the networking side of software development. I created some Python based applications that allow one computer to communicate with another through a network.
 
-The software is constructed to demonstrate both Client-Server and Peer to Peer models. The client or peer can send requests, and the server or other peer responds accordingly. The purpose of writing this software is to gain practical experience in netwrok programming, understanding how different communication models work, and how systems can exchange data effectively over a network. 
+The software is constructed to demonstrate both Client-Server and Peer to Peer models. The client or peer can send requests, and the server or other peer responds accordingly. The purpose of writing this software is to gain practical experience in network programming, understanding how different communication models work, and how systems can exchange data effectively over a network. 
 
 
 [Software Demo Video](https://www.youtube.com/watch?v=jmYU7mNzDCE)
